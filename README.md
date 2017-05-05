@@ -73,6 +73,7 @@ This GitHub repository https://github.com/ld4p/ld4-community-recon/ (Christina @
 - Regular, short (30 minute) Zoom Video calls (bi-weekly, depending on work) for updates on work
 - Github Issues on this repository for work-specific discussions or questions https://github.com/ld4p/ld4-community-recon/issues
 - Github Projects on this repository for project management: https://github.com/LD4P/ld4-community-recon/projects
+- Github Wiki on this repository for meeting notes & other documentation: https://github.com/LD4P/ld4-community-recon/wiki 
 - SUL-DLSS LD4All-Community Slack Channel for informal discussion. We will move to a unified & open LD4 Slack when it is available (Christina @cmh2166, cmharlow@stanford.edu can add you to the Slack channel)
 - Email list for meeting reminders, notes, and decisions. Ask at kick-off if we want an email list or just a list of emails.
 
