@@ -37,7 +37,7 @@ The above is generated from [LD4 Community Meeting Feedback](https://wiki.durasp
 
 To be added as firms up.
 
-The group is open to anyone who wants to contribute. [Get in touch the conveners]() if you're uncertain where to start or how to jump in.
+The group is open to anyone who wants to contribute. [Get in touch the conveners](#conveners) if you're uncertain where to start or how to jump in.
 
 ## Working Areas
 
@@ -73,10 +73,10 @@ This GitHub repository https://github.com/ld4p/ld4-community-recon/ (Christina @
 - Regular, short (30 minute) Zoom Video calls (bi-weekly, depending on work) for updates on work
 - Github Issues on this repository for work-specific discussions or questions https://github.com/ld4p/ld4-community-recon/issues
 - Github Projects on this repository for project management: https://github.com/LD4P/ld4-community-recon/projects
-- Github Wiki on this repository for meeting notes & other documentation: https://github.com/LD4P/ld4-community-recon/wiki 
+- Github Wiki on this repository for meeting notes & other documentation: https://github.com/LD4P/ld4-community-recon/wiki
 - SUL-DLSS LD4All-Community Slack Channel for informal discussion. We will move to a unified & open LD4 Slack when it is available (Christina @cmh2166, cmharlow@stanford.edu can add you to the Slack channel)
 - Email list for meeting reminders, notes, and decisions. Ask at kick-off if we want an email list or just a list of emails.
 
 ## Questions or Comments?
 
-Use [Github Issues on this repository](https://github.com/ld4p/ld4-community-recon/issues) or get in touch with one of the conveners.
+Use [Github Issues on this repository](https://github.com/ld4p/ld4-community-recon/issues) or [get in touch with one of the conveners](#conveners).
