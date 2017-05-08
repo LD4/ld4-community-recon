@@ -39,6 +39,8 @@ To be added as firms up.
 
 The group is open to anyone who wants to contribute. [Get in touch the conveners](#conveners) if you're uncertain where to start or how to jump in.
 
++ Ryan Johnson / rejohnson@ucsd.edu ; ([@remerjohnson](https://github.com/remerjohnson))
+
 ## Working Areas
 
 ### Proposed Outputs
