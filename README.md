@@ -40,7 +40,7 @@ To be added as firms up.
 The group is open to anyone who wants to contribute. [Get in touch the conveners](#conveners) if you're uncertain where to start or how to jump in.
 
 + Ryan Johnson / rejohnson@ucsd.edu ; ([@remerjohnson](https://github.com/remerjohnson))
-+ Chrissy Rissmeyer / crissmeyer@ucsb.edu ; ([@chrissywatkins](https://github.com/chrissyrissmeyer))
++ Chrissy Rissmeyer / crissmeyer@ucsb.edu ; ([@chrissyrissmeyer](https://github.com/chrissyrissmeyer))
 
 ## Working Areas
 
