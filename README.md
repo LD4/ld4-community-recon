@@ -40,9 +40,9 @@ To be added as firms up.
 The group is open to anyone who wants to contribute. [Get in touch the conveners](#conveners) if you're uncertain where to start or how to jump in.
 
 + Arcadia Falcone / arcadia@stanford.edu ; [@arcadiafalcone](https://github.com/arcadiafalcone)
++ Julie Hardesty / jlhardes@iu.edu ; ([@jlhardes](https://github.com/jlhardes))
 + Ryan Johnson / rejohnson@ucsd.edu ; ([@remerjohnson](https://github.com/remerjohnson))
 + Chrissy Rissmeyer / crissmeyer@ucsb.edu ; ([@chrissyrissmeyer](https://github.com/chrissyrissmeyer))
-+ Julie Hardesty / jlhardes@iu.edu ; ([@jlhardes](https://github.com/jlhardes))
 
 ## Working Areas
 
