@@ -35,8 +35,6 @@ The above is generated from [LD4 Community Meeting Feedback](https://wiki.durasp
 
 ### Participants
 
-To be added as firms up.
-
 The group is open to anyone who wants to contribute. [Get in touch the conveners](#conveners) if you're uncertain where to start or how to jump in.
 
 + Arcadia Falcone / arcadia@stanford.edu ; [@arcadiafalcone](https://github.com/arcadiafalcone)
@@ -81,6 +79,19 @@ This GitHub repository https://github.com/ld4p/ld4-community-recon/ (Christina @
 - Github Wiki on this repository for meeting notes & other documentation: https://github.com/LD4P/ld4-community-recon/wiki
 - SUL-DLSS LD4All-Community Slack Channel for informal discussion. We will move to a unified & open LD4 Slack when it is available (Christina @cmh2166, cmharlow@stanford.edu can add you to the Slack channel)
 - Email list for meeting reminders, notes, and decisions. Ask at kick-off if we want an email list or just a list of emails.
+
+## Expectations of Participants
+
+In order to create an inclusive, safe, and open work environment, we ask that all participants follow a [set of rules designed by the the Recurse Center, previously the Hacker School](recurse.com/manual#sub-sec-social-rules). In their own words, *'the goal [of the Recurse Center Social Rules] isn't to burden everyone with a bunch of annoying rules, or to give us a stick to bludgeon people with for "being bad." Rather, these rules are designed to help all of us build a pleasant, productive, and fearless community.'*
+
+As such, these four rules are a lightweight set of explicit social norms to curtail specific kinds of behavior found to be destructive to a supportive, productive, and fun learning/working environment. The four rules are listed here; you can read more about them at http://recurse.com/manual#sub-sec-social-rules.
+
+1. "No feigning surprise." You shouldn't act surprised when someone says they don't know something. There is no benefit to feigning surprise, and regardless of intent, it makes someone feel bad, or worse, about admitting that they don't know something.
+2. "No well-actually's." This is when someone says something almost, but not entirely correct, and another person responds with "well, actually," and gives a correction. That's not to say we don't care about truth or precision, but there are better ways to communicate this.
+3. "No back-seat driving." If you overhear other people working through a problem, don't just intermittently toss advice in without engaging.
+4. "No subtle -isms". This last rule bans racism, sexism, homophobia, transphobia, and other kinds of bias. Subtle -isms are small things that make others feel uncomfortable, and might be familiar as they're under the term "microagressions."
+
+Tip of the hat here also to [Mark Matienzo](http://matienzo.org/), who wrote the additional text explaining each of these rules in the context of a collaborative environment. We've paraphrased Matienzo's comments here.
 
 ## Questions or Comments?
 
