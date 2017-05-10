@@ -8,8 +8,8 @@ LD4 Community groups are a way to work with interested community members on a wo
 
 ### Conveners:
 
-Arwen Hutt / ahutt@ucsd.edu ; @arwenhutt
-Christina Harlow / cmharlow@stanford.edu ; @cmh2166
+- Arwen Hutt / ahutt@ucsd.edu ; @arwenhutt
+- Christina Harlow / cmharlow@stanford.edu ; @cmh2166
 
 ### Scope
 
@@ -41,7 +41,7 @@ The group is open to anyone who wants to contribute. [Get in touch the conveners
 + Theodore Gerontakos / tgis@uw.edu ; ([@gerontakos](https://github.com/gerontakos))
 + Julie Hardesty / jlhardes@iu.edu ; ([@jlhardes](https://github.com/jlhardes))
 + Ryan Johnson / rejohnson@ucsd.edu ; ([@remerjohnson](https://github.com/remerjohnson))
-+ Suzanne Pilsk / PilskS@si.edu
++ Suzanne Pilsk / PilskS@si.edu ; [@pilsks](https://github.com/pilsks)
 + Chrissy Rissmeyer / crissmeyer@ucsb.edu ; ([@chrissyrissmeyer](https://github.com/chrissyrissmeyer))
 + Adam Soroka / ajs6f@apache.org ; ([@ajs6f](https://github.com/ajs6f))
 
