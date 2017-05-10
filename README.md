@@ -41,6 +41,7 @@ The group is open to anyone who wants to contribute. [Get in touch the conveners
 + Julie Hardesty / jlhardes@iu.edu ; ([@jlhardes](https://github.com/jlhardes))
 + Ryan Johnson / rejohnson@ucsd.edu ; ([@remerjohnson](https://github.com/remerjohnson))
 + Chrissy Rissmeyer / crissmeyer@ucsb.edu ; ([@chrissyrissmeyer](https://github.com/chrissyrissmeyer))
++ Theodore Gerontakos / tgis@uw.edu ; ([@gerontakos] (https://github.com/gerontakos))
 
 ## Working Areas
 
