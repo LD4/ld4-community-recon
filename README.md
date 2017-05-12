@@ -40,6 +40,7 @@ The group is open to anyone who wants to contribute. [Get in touch the conveners
 + Arcadia Falcone / arcadia@stanford.edu ; [@arcadiafalcone](https://github.com/arcadiafalcone)
 + Theodore Gerontakos / tgis@uw.edu ; ([@gerontakos](https://github.com/gerontakos))
 + Julie Hardesty / jlhardes@iu.edu ; ([@jlhardes](https://github.com/jlhardes))
++ Timothy Hill / timothy.hill@europeana.eu ; ([@thill-asp](https://github.com/thill-asp))
 + Ryan Johnson / rejohnson@ucsd.edu ; ([@remerjohnson](https://github.com/remerjohnson))
 + Suzanne Pilsk / PilskS@si.edu ; [@pilsks](https://github.com/pilsks)
 + Chrissy Rissmeyer / crissmeyer@ucsb.edu ; ([@chrissyrissmeyer](https://github.com/chrissyrissmeyer))
