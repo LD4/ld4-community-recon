@@ -77,7 +77,7 @@ This GitHub repository https://github.com/ld4p/ld4-community-recon/ (Christina @
 
 *(the following will be confirmed with participants at our kick-off call and continuously updated)*
 
-- Regular, short (30 minute) Zoom Video calls (bi-weekly, depending on work) for updates on work
+- [Regular, short (30 minute) Zoom Video calls (bi-weekly, depending on work) for updates on work](https://github.com/LD4P/ld4-community-recon/wiki/Meetings.md) (links to the Meetings page with information on our kick-off meeting)
 - Github Issues on this repository for work-specific discussions or questions https://github.com/ld4p/ld4-community-recon/issues
 - Github Projects on this repository for project management: https://github.com/LD4P/ld4-community-recon/projects
 - Github Wiki on this repository for meeting notes & other documentation: https://github.com/LD4P/ld4-community-recon/wiki
