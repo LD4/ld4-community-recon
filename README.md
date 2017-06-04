@@ -13,8 +13,6 @@ LD4 Community groups are a way to work with interested community members on a wo
 
 ### Scope
 
-*(the following will be confirmed with participants at our kick-off call)*
-
 This LD4 Community group is an effort to:
 - generate a shared understanding of what reconciliation work entails, including use cases and user stories;
 - build collaboration for existing or emerging reconciliation tool development;
@@ -37,20 +35,27 @@ The above is generated from [LD4 Community Meeting Feedback](https://wiki.durasp
 
 The group is open to anyone who wants to contribute. [Get in touch the conveners](#conveners) if you're uncertain where to start or how to jump in.
 
++ Valentine Charles / valentine.charles@europeana.edu ; [@vcharles89](https://github.com/vcharles89)
 + Arcadia Falcone / arcadia@stanford.edu ; [@arcadiafalcone](https://github.com/arcadiafalcone)
 + Theodore Gerontakos / tgis@uw.edu ; ([@gerontakos](https://github.com/gerontakos))
+* Joshua Greben / jgreben@stanford.edu  ; [@jgreben](https://github.com/jgreben)
 + Julie Hardesty / jlhardes@iu.edu ; ([@jlhardes](https://github.com/jlhardes))
++ Kirk Hess / khes@loc.gov ; [@kirkhess](https://github.com/kirkhess)
 + Timothy Hill / timothy.hill@europeana.eu ; ([@thill-asp](https://github.com/thill-asp))
 + Ryan Johnson / rejohnson@ucsd.edu ; ([@remerjohnson](https://github.com/remerjohnson))
 + Suzanne Pilsk / PilskS@si.edu ; [@pilsks](https://github.com/pilsks)
++ Gregory Reser / greser@ucsd.edu ;
 + Chrissy Rissmeyer / crissmeyer@ucsb.edu ; ([@chrissyrissmeyer](https://github.com/chrissyrissmeyer))
++ Darcy Rueda / dlrueda@stanford.edu ; [@dlrueda](https://github.com/dlrueda)
++ Shlomo Sanders / Shlomo.Sanders@exlibrisgroup.com ; [@shlomosanders](https://github.com/shlomosanders)
 + Adam Soroka / ajs6f@apache.org ; ([@ajs6f](https://github.com/ajs6f))
++ Osma Suominen / osma.suominen@helsinki.fi ; [@osma](https://github.com/osma)
++ Nate Trail / ntra@loc.gov ; [@ntra00](https://github.com/ntra00)
 
 ## Working Areas
 
 ### Proposed Outputs
 
-Some ideas mentioned listed below, to be further developed at the kick off call:
 - List of existing reconciliation tools & a comparison of them
 - Identify common reconciliation use cases
 - Develop flexible (modular perhaps?) abstract workflow models for use cases
@@ -61,8 +66,6 @@ Some ideas mentioned listed below, to be further developed at the kick off call:
 
 ### General Timeframe
 
-*(the following will be confirmed with participants at our kick-off call and continuously updated)*
-
 **For group outputs:** Focus on smaller deliverables with shorter timeframes (< 3 months), as well as parallel work to cover a few different areas of work at the same time. We will start planning these at the kick-off meeting.
 
 **For larger group planning:** Plan on an assessment at 1 year (or earlier if things seem to not be working). The 1 year mark is a time to rotate conveners, choose new meeting times, refresh the goals, disband, morph, etc.
@@ -71,18 +74,16 @@ Some ideas mentioned listed below, to be further developed at the kick off call:
 
 ### Primary Workspace (Notes, Outputs):
 
-This GitHub repository https://github.com/ld4p/ld4-community-recon/ (Christina @cmh2166, cmharlow@stanford.edu can add you to the repository)
+- This GitHub repository https://github.com/ld4p/ld4-community-recon/ (Christina @cmh2166, cmharlow@stanford.edu can give you write access to the repository). Please follow this [GitHub Repository's Collaboration guidelines](CONTRIBUTING.md).
 
 ### Communication:
 
-*(the following will be confirmed with participants at our kick-off call and continuously updated)*
-
-- [Regular, short (30 minute) Zoom Video calls (bi-weekly, depending on work) for updates on work](https://github.com/LD4P/ld4-community-recon/wiki/Meetings.md) (links to the Meetings page with information on our kick-off meeting)
-- Github Issues on this repository for work-specific discussions or questions https://github.com/ld4p/ld4-community-recon/issues
+- [Regular, short (30 minute) Zoom Video calls (bi-weekly, depending on work) for updates on work](https://github.com/LD4P/ld4-community-recon/wiki/Meetings.md) (links to the Meetings page with call information)
+- Github Issues on this repository for work-specific discussions or questions: https://github.com/ld4p/ld4-community-recon/issues
 - Github Projects on this repository for project management: https://github.com/LD4P/ld4-community-recon/projects
 - Github Wiki on this repository for meeting notes & other documentation: https://github.com/LD4P/ld4-community-recon/wiki
 - SUL-DLSS LD4All-Community Slack Channel for informal discussion. We will move to a unified & open LD4 Slack when it is available (Christina @cmh2166, cmharlow@stanford.edu can add you to the Slack channel)
-- Email list for meeting reminders, notes, and decisions. Ask at kick-off if we want an email list or just a list of emails.
+- [Email list](https://groups.google.com/forum/#!forum/ld4-reconciliation) for full-list meeting reminders and general updates. Use this repository as the primary place for communication and collaboration.
 
 ## Expectations of Participants
 
