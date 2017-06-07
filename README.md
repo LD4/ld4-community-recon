@@ -50,6 +50,7 @@ The group is open to anyone who wants to contribute. [Get in touch the conveners
 + Shlomo Sanders / Shlomo.Sanders@exlibrisgroup.com ; [@shlomosanders](https://github.com/shlomosanders)
 + Adam Soroka / ajs6f@apache.org ; ([@ajs6f](https://github.com/ajs6f))
 + Osma Suominen / osma.suominen@helsinki.fi ; [@osma](https://github.com/osma)
++ Brian Tingle / brian.tingle@ucop.edu ; [@tingletech](https://github.com/tingletech)
 + Nate Trail / ntra@loc.gov ; [@ntra00](https://github.com/ntra00)
 
 ## Working Areas
