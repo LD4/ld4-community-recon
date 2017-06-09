@@ -14,16 +14,16 @@ LD4 Community groups are a way to work with interested community members on a wo
 ### Scope
 
 This LD4 Community group is an effort to:
-- generate a shared understanding of what reconciliation work entails, including use cases and user stories;
-- build collaboration for existing or emerging reconciliation tool development;
-- and outline pragmatic solutions including matching algorithms, workflows, tools, and functional requirements for Cultural Heritage/GLAM+ resource metadata reconciliation.
+- generate a shared understanding of what "reconciliation" work entails, including use cases and user stories;
+- build collaboration for existing or emerging "reconciliation" tool development;
+- and outline pragmatic solutions including matching algorithms, workflows, tools, and functional requirements for Cultural Heritage/GLAM+ resource metadata "reconciliation".
 
-NB: **Metadata** here is used in an expansive way to cover not only traditional bibliographic metadata, but also descriptions for emerging resource types & metadata domains (rights, administrative, structural, etc.) as applicable to the group’s efforts.
+Nota Bene: **Metadata** here is used in an expansive way to cover not only traditional bibliographic metadata, but also descriptions for emerging resource types & metadata domains (rights, administrative, structural, etc.) as applicable to the group’s efforts.
 
-NB: **Reconciliation** here is meant broadly and includes:
+Nota Bene: **Reconciliation** has been used to mean a number of things in our domain and community work. Here, we are primarily thinking about the first two topics listed of the three topics possibly including in a broader understanding of "reconciliation":
 - Reconciliation (in specific sense): entity/URI to entity/URI
 - Entity resolution: string to entity/URI (what most people are thinking about, it appears)
-- Lexicalization: entity/URI to string (i.e. getting a label)
+- Lexicalization: entity/URI to string (i.e. getting a label, and mostly out of scope for this group's work)
 
 The above is generated from [LD4 Community Meeting Feedback](https://wiki.duraspace.org/pages/viewpage.action?pageId=83232681), which included the following points:
 - “There were so many cool presentations and conversations today around reconciliation tools, I would love to see conversations around that continue”
