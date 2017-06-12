@@ -40,7 +40,7 @@ The group is open to anyone who wants to contribute. [Get in touch the conveners
 + Valentine Charles / valentine.charles@europeana.edu ; [@vcharles89](https://github.com/vcharles89)
 + Arcadia Falcone / arcadia@stanford.edu ; [@arcadiafalcone](https://github.com/arcadiafalcone)
 + Theodore Gerontakos / tgis@uw.edu ; ([@gerontakos](https://github.com/gerontakos))
-* Joshua Greben / jgreben@stanford.edu  ; [@jgreben](https://github.com/jgreben)
++ Joshua Greben / jgreben@stanford.edu  ; [@jgreben](https://github.com/jgreben)
 + Julie Hardesty / jlhardes@iu.edu ; ([@jlhardes](https://github.com/jlhardes))
 + Kirk Hess / khes@loc.gov ; [@kirkhess](https://github.com/kirkhess)
 + Timothy Hill / timothy.hill@europeana.eu ; ([@thill-asp](https://github.com/thill-asp))
