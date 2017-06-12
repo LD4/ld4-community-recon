@@ -57,6 +57,8 @@ The group is open to anyone who wants to contribute. [Get in touch the conveners
 
 ## Working Areas
 
+See our [Working Plan](WORKPLAN.md) for our current work areas, timeline, and outputs in progress.
+
 ### Proposed Outputs
 
 - List of existing reconciliation tools & a comparison of them
