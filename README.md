@@ -18,19 +18,20 @@ This LD4 Community group is an effort to:
 - build collaboration for existing or emerging reconciliation & resolution tool development;
 - and outline pragmatic solutions including matching algorithms, workflows, tools, and functional requirements for Cultural Heritage/GLAM+ resource metadata reconciliation & resolution.
 
-Nota Bene: **Metadata** here is used in an expansive way to cover not only traditional bibliographic metadata, but also descriptions for emerging resource types & metadata domains (rights, administrative, structural, etc.) as applicable to the group’s efforts.
-
-Nota Bene: **Reconciliation** has been used to mean a number of things in our domain and community work. At this point, we are primarily thinking about these two topics:
-- Reconciliation (in specific sense, and what we mean): entity/URI to entity/URI
-- Entity resolution: string to entity/URI
-The community working group may extend scope later on to include other work areas often related to or mixed in with reconciliation, such as:
-- Lexicalization: entity/URI to string (i.e. getting a label)
-
 The above is generated from [LD4 Community Meeting Feedback](https://wiki.duraspace.org/pages/viewpage.action?pageId=83232681), which included the following points:
 - “There were so many cool presentations and conversations today around reconciliation tools, I would love to see conversations around that continue”
 - “I have a lot of work queued up around reconciliation. lets work together? most is queued up in GH”
 - “We’ve been trying to compare reconciliation tools and would like to expand this with this group’s input”
 - Largest gap in tooling from the Tools breakout: Reconciliation listed
+
+Nota Bene: **Metadata** here is used in an expansive way to cover not only traditional bibliographic metadata, but also descriptions for emerging resource types & metadata domains (rights, administrative, structural, etc.) as applicable to the group’s efforts.
+
+Nota Bene: **Reconciliation** has been used to mean a number of things in our domain and community work. At this point, we are primarily thinking about these two topics:
+- `Reconciliation` (in specific sense, and what we mean): entity/URI to entity/URI
+- `Entity resolution`: string to entity/URI (often misnamed `reconciliation`)
+
+The community working group may extend scope later on to include other work areas often related to or mixed in with reconciliation and resolution, such as:
+- `Lexicalization`: entity/URI to string (i.e. getting a label, currently out of scope for this group)
 
 ### Participants
 
