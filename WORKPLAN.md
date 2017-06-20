@@ -7,16 +7,16 @@ The outline of this work plan was decided at [our group kick-off meeting on 22 M
 
 ## Evolving Work Plan
 
-1. [Gather/Identify Use Cases (2 months, June - July):](https://github.com/LD4P/ld4-community-recon/wiki/Entity-Resolution,-Reconciliation,-and-Lexicalization-Use-Cases-Work)
-    - Identify common use cases for reconciliation & resolution as a group;
-    - Make use cases expressed in a common way (i.e. shared template);
+1. [Gather/Identify Use Cases (2 months, June - July):](https://github.com/LD4P/ld4-community-recon/wiki/Entity-Resolution-and-Reconciliation-Use-Cases-Work)
+    - Identify common use cases for reconciliation & entity resolution as a group;
+    - Make use cases expressed in a common way - see [our shared use-case issue template](issue_template.md);
     - Work on an accelerated time line for these use cases;
     - Pull in idea of context & standards as applicable.
-3. [Assessment & discussion of gathered use cases to split up among work areas (2-3 months, August - October):](https://github.com/LD4P/ld4-community-recon/wiki/Entity-Resolution,-Reconciliation,-and-Lexicalization-Use-Cases-Work)
+3. [Assessment & discussion of gathered use cases to split up among work areas (2-3 months, August - October):](https://github.com/LD4P/ld4-community-recon/wiki/Entity-Resolution-and-Reconciliation-Use-Cases-Work)
     - 1. algorithms and approaches to matching needs as identified in use cases;
     - 2. abstract out workflows & identify shared pieces between them;
     - 3. Other work areas as identified;
-4. Develop or identify (multi-tracks?) tools for the work areas surfaced (TBD);
+4. Develop or identify (multi-tracks?) tools for the work areas surfaced (Dates TBD);
    - Steps TBD based on upstream work;
    - Tools implemented across institutions;
    - efficiency of tools/solutions
