@@ -16,7 +16,7 @@ The outline of this work plan was decided at [our group kick-off meeting on 22 M
     - 1. algorithms and approaches to matching needs as identified in use cases;
     - 2. abstract out workflows & identify shared pieces between them;
     - 3. Other work areas as identified;
-4. Develop or identify (multi-tracks?) tools for the work areas surfaced (TBD);
+4. Develop or identify (multi-tracks?) tools for the work areas surfaced (Dates TBD);
    - Steps TBD based on upstream work;
    - Tools implemented across institutions;
    - efficiency of tools/solutions
