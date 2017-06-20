@@ -59,16 +59,6 @@ The group is open to anyone who wants to contribute. [Get in touch the conveners
 
 See our [Working Plan](WORKPLAN.md) for our current work areas, timeline, and outputs in progress.
 
-### Proposed Outputs
-
-- List of existing reconciliation tools & a comparison of them
-- Identify common reconciliation use cases
-- Develop flexible (modular perhaps?) abstract workflow models for use cases
-- Create functional requirements for shared workflow components
-- Set of leveled (i.e. simplest to complex) reconciliation and matching algorithms for common reconciliation cases & data types (i.e. going from label look-ups based off various string matching algorithms to contextual data matching based off of string and other data type matching algorithms for multiple fields attached to a resource)
-- Work on light-weight tools for certain needs listed above to make proof of concepts or support intermediate work & review
-- (Meta) Model for LD4 / Other blackbox LODLAM efforts in community engagement & work
-
 ### General Timeframe
 
 **For group outputs:** Focus on smaller deliverables with shorter timeframes (< 3 months), as well as parallel work to cover a few different areas of work at the same time. We will start planning these at the kick-off meeting.
