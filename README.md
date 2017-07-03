@@ -14,22 +14,24 @@ LD4 Community groups are a way to work with interested community members on a wo
 ### Scope
 
 This LD4 Community group is an effort to:
-- generate a shared understanding of what reconciliation work entails, including use cases and user stories;
-- build collaboration for existing or emerging reconciliation tool development;
-- and outline pragmatic solutions including matching algorithms, workflows, tools, and functional requirements for Cultural Heritage/GLAM+ resource metadata reconciliation.
-
-NB: **Metadata** here is used in an expansive way to cover not only traditional bibliographic metadata, but also descriptions for emerging resource types & metadata domains (rights, administrative, structural, etc.) as applicable to the group’s efforts.
-
-NB: **Reconciliation** here is meant broadly and includes:
-- Reconciliation (in specific sense): entity/URI to entity/URI
-- Entity resolution: string to entity/URI (what most people are thinking about, it appears)
-- Lexicalization: entity/URI to string (i.e. getting a label)
+- generate a shared understanding of what reconciliation & resolution work entails, including use cases and user stories;
+- build collaboration for existing or emerging reconciliation & resolution tool development;
+- and outline pragmatic solutions including matching algorithms, workflows, tools, and functional requirements for Cultural Heritage/GLAM+ resource metadata reconciliation & resolution.
 
 The above is generated from [LD4 Community Meeting Feedback](https://wiki.duraspace.org/pages/viewpage.action?pageId=83232681), which included the following points:
 - “There were so many cool presentations and conversations today around reconciliation tools, I would love to see conversations around that continue”
 - “I have a lot of work queued up around reconciliation. lets work together? most is queued up in GH”
 - “We’ve been trying to compare reconciliation tools and would like to expand this with this group’s input”
 - Largest gap in tooling from the Tools breakout: Reconciliation listed
+
+Nota Bene: **Metadata** here is used in an expansive way to cover not only traditional bibliographic metadata, but also descriptions for emerging resource types & metadata domains (rights, administrative, structural, etc.) as applicable to the group’s efforts.
+
+Nota Bene: **Reconciliation** has been used to mean a number of things in our domain and community work. At this point, we are primarily thinking about these two topics:
+- `Reconciliation` (in specific sense, and what we mean): entity/URI to entity/URI
+- `Entity resolution`: string to entity/URI (often misnamed `reconciliation`)
+
+The community working group may extend scope later on to include other work areas often related to or mixed in with reconciliation and resolution, such as:
+- `Lexicalization`: entity/URI to string (i.e. getting a label, currently out of scope for this group)
 
 ### Participants
 
@@ -38,7 +40,7 @@ The group is open to anyone who wants to contribute. [Get in touch the conveners
 + Valentine Charles / valentine.charles@europeana.edu ; [@vcharles89](https://github.com/vcharles89)
 + Arcadia Falcone / arcadia@stanford.edu ; [@arcadiafalcone](https://github.com/arcadiafalcone)
 + Theodore Gerontakos / tgis@uw.edu ; ([@gerontakos](https://github.com/gerontakos))
-* Joshua Greben / jgreben@stanford.edu  ; [@jgreben](https://github.com/jgreben)
++ Joshua Greben / jgreben@stanford.edu  ; [@jgreben](https://github.com/jgreben)
 + Julie Hardesty / jlhardes@iu.edu ; ([@jlhardes](https://github.com/jlhardes))
 + Kirk Hess / khes@loc.gov ; [@kirkhess](https://github.com/kirkhess)
 + Timothy Hill / timothy.hill@europeana.eu ; ([@thill-asp](https://github.com/thill-asp))
@@ -55,15 +57,7 @@ The group is open to anyone who wants to contribute. [Get in touch the conveners
 
 ## Working Areas
 
-### Proposed Outputs
-
-- List of existing reconciliation tools & a comparison of them
-- Identify common reconciliation use cases
-- Develop flexible (modular perhaps?) abstract workflow models for use cases
-- Create functional requirements for shared workflow components
-- Set of leveled (i.e. simplest to complex) reconciliation and matching algorithms for common reconciliation cases & data types (i.e. going from label look-ups based off various string matching algorithms to contextual data matching based off of string and other data type matching algorithms for multiple fields attached to a resource)
-- Work on light-weight tools for certain needs listed above to make proof of concepts or support intermediate work & review
-- (Meta) Model for LD4 / Other blackbox LODLAM efforts in community engagement & work
+See our [Working Plan](WORKPLAN.md) for our current work areas, timeline, and outputs in progress.
 
 ### General Timeframe
 
