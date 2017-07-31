@@ -3,11 +3,11 @@ If you are doing that, just delete this introductory text and fill in the sectio
 Feel free to add free narrative wherever and however you think will best clarify or enrich your use case.
 If you are adding another kind of issue, you can just delete this whole template to start with a blank form.
 
-You can see the use cases gathered so far here: https://github.com/LD4P/ld4-community-recon/issues?q=is%3Aissue+is%3Aopen+label%3Ause-case
-
-If you're able, please apply the `use-case` label to your issue (don't worry about it if you cannot).
+You can see the use cases gathered here: https://github.com/LD4P/ld4-community-recon/issues?q=is%3Aissue+is%3Aopen+label%3Ause-case
 
 If you're worried your use case isn't in scope, or is too narrow/broad, or other, please submit it anyway. We want to perform a wide capture of how people in GLAM institutions work on, around, with, or without reconciliation and entity resolution for their (meta)data. Thanks!
+
+If you are having issues with GitHub, you can also email your issue to [Christina](mailto:cmharlow@stanford.edu).
 
 ## Primary Actor (Required if possible)
 
