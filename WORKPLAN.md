@@ -7,7 +7,7 @@ The outline of this work plan was decided at [our group kick-off meeting on 22 M
 
 ## Evolving Work Plan
 
-1. [Gather/Identify Use Cases (2 months, June - July):](https://github.com/LD4P/ld4-community-recon/wiki/Entity-Resolution-and-Reconciliation-Use-Cases-Work)
+1. [Gather/Identify Use Cases (2.5 months, June - mid-August):](https://github.com/LD4P/ld4-community-recon/wiki/Entity-Resolution-and-Reconciliation-Use-Cases-Work)
     - Identify common use cases for reconciliation & entity resolution as a group;
     - Make use cases expressed in a common way - see [our shared use-case issue template](issue_template.md);
     - Work on an accelerated time line for these use cases;
